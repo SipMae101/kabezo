@@ -1,0 +1,10 @@
+nav{
+    background-color: #1f5b25;
+}
+body{
+    background-image: url(../img/home-min.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vw;
+}
